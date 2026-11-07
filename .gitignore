@@ -1,0 +1,8 @@
+# Registration keys - the link between a switch and its claim. Never commit.
+leviton_regkey*.txt
+.leviton_*.pem
+.leviton_*.bin
+
+# Python
+__pycache__/
+*.pyc
